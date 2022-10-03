@@ -1,0 +1,23 @@
+interface for mta:
+
+background {
+    background.png;
+    background_logo.png;
+    busy_spinner.png;
+},
+EEdge {
+    CGUI.is.xml;
+    CGUI.Inf.xml;
+    CGUI.png;
+    CGUI.xml;
+},
+config {
+    background.psd; (style: purple, red, grey)
+    CGUI.psd; (style: purple, red, grey)
+}
+
+1. install: "mta/MTA/cgui/images/"; - move files from a folder to a specified location with replacement
+• p/s before replacing files, make a backup copy of the files ⤴
+2. install: "mta/skins/EEdge"; - move folder to specified location
+
+• config: customize for yourself :)
